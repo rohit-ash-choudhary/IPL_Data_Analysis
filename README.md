@@ -1,2 +1,2 @@
-# IPL_Data_Analysis-
-Insight IPL data if you don't know about IPL, IPL stands for Indian Premier League. It is a Twenty20 cricket tournament introduced by Board of Control of Cricket in India (BCCI), in 2008IPL is not only for Indian cricketers. The format of IPL also allows the overseas players to participate in the tournament. Indian players and overseas players form teams which represent different cities of India such as Delhi Daredevils, Mumbai Indians and Kolkata Knight Riders. Each team plays against each other twice so each team plays 14 matches before qualify for the semifinal. On the basis of points earned and net run rate, four teams qualify for the semifinal. 
+# IPL-Data-Analysis-Using-Python
+IPL Data Analysis Using Python Libraries Like Numpy, Pandas, Matplotlib, Seaborn
